@@ -1,6 +1,6 @@
 # 📝 Filtrando Inadimplentes
 
-Este projeto tem como objetivo filtrar uma lista de inadimplentes, cruzando os dados com uma planilha de logins para identificar o setor ao qual cada vendedor inadimplente pertence. O resultado final é exportado em formato Excel.
+Este projeto tem como objetivo filtrar apenas clientes inadimplentes de uma listagem com todas as vendas realizadas que está em formato HTML, cruzando os dados com uma planilha de logins para identificar o setor cada cliente inadimplente pertence. O resultado final é exportado em formato Excel.
 
 ## 🛠️ Estrutura do Projeto
 
